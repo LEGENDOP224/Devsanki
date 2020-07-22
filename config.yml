@@ -15,10 +15,10 @@ colour: "FF0062"
 prefix: "="
 
 serverName: "${message.guild.name}"
-botName: "Darky"
-footer: "© Darky"
+botName: "SANKI"
+footer: "© SANKI"
 
-statusMessage: "Darky | =help"
+statusMessage: "SANKI | =help"
     
 disabledCommands: [""]
 
